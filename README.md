@@ -16,4 +16,4 @@ En este proyecto se va a aplicar NLP para extraer y procesar tweets de distintas
 
 5. Como actividad extra con Twitter, podemos realizar un análisis de sentimientos de los tweets de las celebridades usando *VADER*, y analizar los resultados que se obtienen.
 
-Este proyecto se presenta en formato de Jupyter Notebook con explicaciones detalladas, adjuntando también un fichero .html donde podemos ver el resultado de la ejecución de cada celda.
+Este proyecto se presenta en formato de Jupyter Notebook con explicaciones detalladas. Es necesario instalar los paquetes que se indican al comienzo del mismo.
